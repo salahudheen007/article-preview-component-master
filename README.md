@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/salahudheen007/article-preview-component-master)
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL:(https://github.com/salahudheen007/article-preview-component-masterrr)
+- Live Site URL:(https://salahudheen007.github.io/article-preview-component-masterrr/)
 
 ## My process
 
